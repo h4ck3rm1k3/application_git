@@ -8,3 +8,6 @@ coverage/
 pkg/
 .yardoc/
 doc/
+/.uploaded-cookbook-version.json
+/.uploaded-cookbook-version.json~
+/Makefile~
